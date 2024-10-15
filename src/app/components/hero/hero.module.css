@@ -1,0 +1,39 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.h1 {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.span {
+    color: #bb86fc;
+}
+
+.p {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #bb86fc;
+    color: #ffffff;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #b36dd1;
+}

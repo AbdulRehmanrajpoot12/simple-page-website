@@ -1,0 +1,27 @@
+.footer {
+    text-align: center;
+    background-color: #101010;
+}
+
+.h4 {
+    color: #ffffff;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.link {
+    margin: 0 15px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.p {
+    padding-top: 20px;
+    padding-bottom: 20px;   
+}
